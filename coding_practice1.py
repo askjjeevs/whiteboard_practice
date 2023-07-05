@@ -110,4 +110,5 @@ def sum_of_nums(n):
 def reverse_nums(num_list):
     reversed = []
     for i in range(len(num_list)-1, -1, -1):
-
+        reversed.append(i)
+    return reversed 

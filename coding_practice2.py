@@ -87,6 +87,3 @@ Treat spaces and uppercase letters normally:
 
 def is_palindrome(str):
     
-    for i in str:
-        if str[i] == str [-i]:
-            return True 
